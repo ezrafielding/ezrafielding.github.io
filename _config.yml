@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   UNISEC South African Region
 
 minimal_mistakes_skin: dark
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
