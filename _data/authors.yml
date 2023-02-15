@@ -1,0 +1,9 @@
+UNISEC-SAR:
+  name        : "UNISEC-SAR"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "abarnard@sun.ac.za"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/company/unisec-sar/"
