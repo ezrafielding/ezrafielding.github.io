@@ -1,5 +1,7 @@
 main:
   - title: "Home"
     url: /
+  - title: "Members"
+    url: /members/
   - title: "Contact Us"
     url: /contact/

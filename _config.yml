@@ -16,7 +16,7 @@
 title: UNISEC-SAR
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  UNISEC South African Region
+  UNISEC Southern Africa Region
 
 minimal_mistakes_skin: dark
 search: false
@@ -68,5 +68,11 @@ share: true
 footer:
   links:
     - label: "LinkedIn"
-      icon: fab fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/company/unisec-sar/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/unisecsar/"
+    - label: "UNISEC-Global"
+      icon: "fas fa-fw fa-globe"
+      url: "http://www.unisec-global.org/"
