@@ -19,5 +19,5 @@ UNISEC-SAR is a local chapter of UNISEC-Global. UNISEC-Global's primary objectiv
 
 UNISEC-Global is an international nonprofit body, consisting of local-chapters across the world. Since its establishment in November 2013 in Japan, UNISEC-Global has provided a forum every year to promote practical space development activities, mainly at university level, such as designing, developing, manufacturing, launching and operating micro/nano/pico satellites and rockets, including their payloads. University students, young researchers, their tutors and other stakeholders around the world participate in the annual UNISEC-Global Meeting. We have an average of more than 130 participants from about 33 countries in each meeting.
 
-### To learn more about UNISEC-Global:
+### Learn more about UNISEC-Global:
 [![UNISEC-Global](/assets/images/unisec_logo2.jpg)](http://www.unisec-global.org/)
